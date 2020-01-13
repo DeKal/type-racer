@@ -1,0 +1,10 @@
+E:\TypeRacer\TypeRacer\bin\Debug\TypeRacer.exe.config
+E:\TypeRacer\TypeRacer\bin\Debug\TypeRacer.exe
+E:\TypeRacer\TypeRacer\bin\Debug\TypeRacer.pdb
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.csprojResolveAssemblyReference.cache
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.Properties.Resources.resources
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.csproj.GenerateResource.Cache
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.exe
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.pdb
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.Sumary.resources
+E:\TypeRacer\TypeRacer\obj\Debug\TypeRacer.Game.resources
